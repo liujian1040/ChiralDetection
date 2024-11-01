@@ -152,7 +152,7 @@
 
 - **video_detect.py：视频检测**
 
-- **ana.py：晶体分析**
+- **ana.py：手性分析**
 
 - **auto_annotation.py：渐进式标注**
 
@@ -251,9 +251,9 @@
 - **本部分需要GUI界面配合测试以及开发，故尚未测试**
 
 
-## **Crystal Analysis**
+## **Chiral Analysis**
 
-> **晶体分析（ana.py），需要先对待分析图片执行detect.py进行检测后再执行此文件**
+> **手性分析（ana.py），需要先对待分析图片执行detect.py进行检测后再执行此文件**
 
 - **参数介绍：**
 
