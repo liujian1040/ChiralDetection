@@ -1,29 +1,146 @@
-cython
-numpy
-recommonmark
-sphinx
-sphinx_markdown_tables
-sphinx_rtd_theme
-albumentations>=0.3.2
-cityscapesscripts
-imagecorruptions
-scipy
-sklearn
-mmcv
-torch
-torchvision
-matplotlib
-numpy
-six
-terminaltables
-asynctest
-codecov
-flake8
-interrogate
-isort==4.3.21
-# Note: used for kwarray.group_items, this may be ported to mmcv in the future.
-kwarray
-pytest
-ubelt
-xdoctest>=0.10.0
-yapf
+addict==	2.4.0
+alabaster==	0.7.12
+albumentations==	1.1.0
+appdirs==	1.4.4
+asynctest==	0.13.0
+atomicwrites==	1.4.0
+attrs==	21.2.0
+babel==	2.9.1
+blas==	1
+ca-certificates==	2021.10.26
+certifi==	2021.10.8
+charset-normalizer==	2.0.9
+cityscapesscripts==	2.2.0
+click==	8.0.3
+codecov==	2.1.12
+colorama==	0.4.4
+coloredlogs==	15.0.1
+commonmark==	0.9.1
+coverage==	6.2
+cudatoolkit==	11.3.1
+cycler==	0.11.0
+cython==	0.29.25
+docutils==	0.17.1
+flake8==	4.0.1
+fonttools==	4.28.3
+freetype==	2.10.4
+humanfriendly==	10
+idna==	3.3
+imagecorruptions==	1.1.2
+imageio==	2.13.2
+imagesize==	1.3.0
+importlib-metadata==	4.8.2
+iniconfig==	1.1.1
+intel-openmp==	2021.4.0
+interrogate==	1.5.0
+isort==	4.3.21
+jaraco-classes==	3.2.1
+jaraco-collections==	3.4.0
+jaraco-functools==	3.4.0
+jaraco-structures==	2.1.0
+jaraco-text==	3.6.0
+jaraco-ui==	2.3.0
+jaraco-windows==	5.7.0
+jinja2==	3.0.3
+joblib==	1.1.0
+jpeg==	9d
+kiwisolver==	1.3.2
+kwarray==	0.5.21
+libpng==	1.6.37
+libtiff==	4.2.0
+libuv==	1.40.0
+libwebp==	1.2.0
+lz4-c==	1.9.3
+markdown==	3.3.6
+markupsafe==	2.0.1
+matplotlib==	3.5.0
+mccabe==	0.6.1
+mkl==	2021.4.0
+mkl-service==	2.4.0
+mkl_fft==	1.3.1
+mkl_random==	1.2.2
+mmcv==	1.4.0
+mmcv-full==	1.4.0
+mmdet==	2.23.0
+more-itertools==	8.12.0
+networkx==	2.6.3
+numpy==	1.21.2
+numpy-base==	1.21.2
+olefile==	0.46
+onnx==	1.10.2
+opencv-python==	4.5.4.60
+opencv-python-headless==	4.5.4.60
+openssl==	1.1.1l
+ordered-set==	4.0.2
+packaging==	21.3
+pandas==	1.4.0
+path==	16.2.0
+pillow==	8.4.0
+pip==	21.3.1
+pluggy==	1.0.0
+protobuf==	3.19.1
+py==	1.11.0
+pycocotools==	2.0.3
+pycodestyle==	2.8.0
+pyflakes==	2.4.0
+pygments==	2.10.0
+pyparsing==	3.0.6
+pyquaternion==	0.9.9
+pyreadline3==	3.3
+pytest==	6.2.5
+python==	3.9.7
+python-dateutil==	2.8.2
+pytorch==	1.10.0
+pytorch-mutex==	1
+pytz==	2021.3
+pywavelets==	1.2.0
+pyyaml==	6
+qudida==	0.0.4
+recommonmark==	0.7.1
+regex==	2021.11.10
+requests==	2.26.0
+scikit-image==	0.19.0
+scikit-learn==	1.0.1
+scipy==	1.7.3
+setuptools==	58.0.4
+setuptools-scm==	6.3.2
+six==	1.16.0
+sklearn==	0
+snowballstemmer==	2.2.0
+sphinx==	4.3.1
+sphinx-markdown-tables==	0.0.15
+sphinx-rtd-theme==	1.0.0
+sphinxcontrib-applehelp==	1.0.2
+sphinxcontrib-devhelp==	1.0.2
+sphinxcontrib-htmlhelp==	2.0.0
+sphinxcontrib-jsmath==	1.0.1
+sphinxcontrib-qthelp==	1.0.3
+sphinxcontrib-serializingh==	tml1.1.5
+sqlite==	3.36.0
+tabulate==	0.8.9
+terminaltables==	3.1.10
+threadpoolctl==	3.0.0
+tifffile==	2021.11.2
+tk==	8.6.11
+toml==	0.10.2
+tomli==	1.2.2
+torchaudio==	0.10.0
+torchvision==	0.11.1
+tqdm==	4.62.3
+typing==	3.7.4.3
+typing_extensions==	3.10.0.2
+tzdata==	2021e
+ubelt==	0.10.2
+urllib3==	1.26.7
+vc==	14.2
+vs2015_runtime==	14.27.29016
+wheel==	0.37.0
+wincertstore==	0.2
+xdoctest==	0.15.10
+xlwt==	1.3.0
+xz==	5.2.5
+yapf==	0.31.0
+zipp==	3.6.0
+zlib==	1.2.11
+zstd==	1.4.9
+	
